@@ -2,12 +2,12 @@
 An interactive Excel dashboard designed to analyze customer shopping behavior, purchasing trends, and sales performance using real-world retail data. This project transforms raw transactional data into meaningful business insights through dynamic visualizations, KPIs, pivot tables, slicers, and charts.
 
 # Key Objectives
-Analyze customer purchasing patterns
-Identify top-performing product categories
-Track seasonal sales trends
-Understand customer demographics and behavior
-Evaluate discount and subscription impact on sales
-Monitor customer satisfaction through review ratings
+#Analyze customer purchasing patterns
+#Identify top-performing product categories
+#Track seasonal sales trends
+#Understand customer demographics and behavior
+#Evaluate discount and subscription impact on sales
+#Monitor customer satisfaction through review ratings
 
 # Dashboard Features
   KPI Metrics
